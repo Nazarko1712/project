@@ -7,4 +7,4 @@
 |[Lab 7](Lab7)|one-dimensional arrays|
 |[Lab 8](Lab8)|Multidimensional arrays|
 
-All exercises you can find [here](https://github.com/Nazarko1712/project/blob/master/exercises.doc)
+* All exercises you can find [here](https://github.com/Nazarko1712/project/blob/master/exercises.doc)
