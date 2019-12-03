@@ -8,3 +8,7 @@
 |[Lab 8](Lab8)|Multidimensional arrays|
 
 * All exercises you can find [here](https://github.com/Nazarko1712/project/blob/master/exercises.doc)
+# Contact with creator♥
+- Discord: Nazarko#5546
+- Mail: masnichuk_ak19@nuwm.edu.ua
+- Instagram: @nazar.masnichuk
